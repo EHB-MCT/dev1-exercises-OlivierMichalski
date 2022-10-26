@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: orange;
 }
 
 #canvas {
@@ -11,3 +12,5 @@ body {
     top: 0;
     left: 0;
 }
+
+
