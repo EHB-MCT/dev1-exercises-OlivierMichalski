@@ -11,7 +11,7 @@ drawLines();
 function drawLines(){
     let step = 25   ; 
     context.strokeStyle = "white";
-    context.lineWidth = 3 ;
+    context.lineWidth = 2 ;
     let amount = width / step;
     let amountH = height /step;
     for(let i = 0; i < amount; i++){
